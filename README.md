@@ -3,7 +3,7 @@
 Hier liegen die fertigen Versionen von **Wearly**, dem digitalen Kleiderschrank für Android.
 Die App arbeitet vollständig offline; alle Daten bleiben auf dem eigenen Telefon.
 
-**Neueste Version:** unter [Releases](../../releases/latest) die Datei `wearly-vX.Y.Z.apk`
+**Neueste Version:** unter [Releases](https://github.com/Space010/Wearly-Releases/releases/latest) die Datei `wearly-vX.Y.Z.apk`
 herunterladen.
 
 ## Installation
